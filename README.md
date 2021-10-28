@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Catcss**
 
-- 💬 Ask me about **CSS, React**
+- 💬 Ask me about **CSS,Javascript, Bootstrap, Tailwindcss, Angular, Vuejs React**
 
 - 📫 How to reach me **ruizsantaclara@catcss.com**
 
